@@ -1,0 +1,10 @@
+/dashboard.php
+/edit_profile.php
+/add_project.php
+/edit_project.php
+/delete_project.php
+/change_password.php
+/delete_account.php
+/logout.php
+/includes/db.php
+/includes/functions.php
